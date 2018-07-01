@@ -1,3 +1,4 @@
 this is a new text.
 add a new line
 user1 add a new line by dev
+user2 add a new line by dev
